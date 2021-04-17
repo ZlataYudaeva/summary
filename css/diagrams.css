@@ -1,0 +1,11 @@
+.diagrams {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.diagram_item {
+  fill: #7a5932;
+  display: flex;
+  flex-direction: column;
+}
